@@ -1,0 +1,17 @@
+https://www.tutorialspoint.com/sp/software_engineering/software_implementation.htm
+https://phptherightway.com/pages/Functional-Programming.html
+
+Ingeniería de Software de Inicio
+Resumen de Ingeniería de Software
+Ciclo de vida del desarrollo Software
+Gestión del proyecto de Software
+Requisitos Software
+Nociones básicas de diseño de Software
+Herramientas de análisis de Software y de diseño
+Estrategias de diseño Software
+Diseño Software de interfaz de usuario
+Complejidad del Diseño de Software
+Implementación del Software
+Sumario sobre Pruebas de Software
+Sumario sobre el mantenimiento del Software
+Sumario sobre Software para Herramienta CASE
