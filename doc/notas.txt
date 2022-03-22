@@ -1,0 +1,95 @@
+En este capítulo, estudiaremos métodos de programación, documentación y retos en la implementación de Software.
+
+Programación estructurada
+En el proceso de codificación, las líneas del código se multiplican continuamente, por consiguiente, el tamaño del software se incrementa. Se vuelve casi imposible recordar el flujo del programa gradualmente. Si nos olvidamos cómo se construyen el software y sus subyacentes programas, los archivos... resulta muy difícil compartir, modificar y eliminar los fallos del programa. La solución yace en la programación estructurada. Motiva al desarrollador a usar subrutinas y estructuras de control (loops) en vez de usar simples saltos en el código, de este modo haciendo el código más claro y mejorando su eficiencia, la programación estructurada también ayuda al programador a reducir el tiempo de codificación y a organizar el lenguage de programación correctamente.
+
+La programación estructurada define cómo debe ser codificado el programa. La programación estructurada usa principalmente 3 conceptos:
+
+Análisis 'Top-down'(de arriba a abajo) - El software se crea principalmente para llevar a cabo un tipo de trabajo racional. Este tipo de trabajo se conoce como problema en la jerga software. Por consiguiente, es muy importante que entendamos cómo resolver el problema. Según el análisis top-down, el problema debe romperse en pequeñas piezas con un significado concreto. Cada problema se resuelve de manera independiente y los pasos a seguir para resolver el problema en su conjunto son dictados de manera clara.
+
+Programación modular - Mientras se programa, el código se rompe en pequeños grupos de instrucciones. Estos grupos se denominan módulos, subprogramas o subrutinas. La programación modular se basa en el entendimiento del análisis top-down. Desmotiva los saltos usando órdenes de 'Ir a' en el programa, lo que a menudo hace que el flujo del programa no sea localizable. En programación modular Los saltos están prohibidos y se fomenta el formato modular.
+
+Codificación estructurada - En referencia al análisis top-down, la codificación estructurada divide los módulos en pequeñas unidades de código para su satisfactoria ejecución. La programación estructurada usa estructuras de control, las cuales controlan el flujo del programa, mientras que la codificación estructurada usa estructuras de control para organizar sus instrucciones en patrones definibles.
+
+Programación funcional
+La programación funcional es un estilo de lenguaje de programación, que usa conceptos de funciones matemáticas. En matemáticas una función siempre debe producir el mismo resultado si recibe el mismo argumento. En un lenguage procedimental, el flujo del programa funciona a través de procedimientos, esto es, el control del programa se transfiere al procedimiento mencionado. Mientras el flujo de control se transfiere de un procedimiento a otro, el programa cambia su estado.
+
+En programación procedimental, es posible que un procedimiento produzca resultados diferentes cuando es llamado con el mismo argumento, ya que el programa puede estar en un estado diferente mientras se llama al mismo. Esta es una propiedad así como una desventaja de la programación procedimental, en que la secuencia o temporalizacón de la ejecución procedimental se vuelve importante.
+
+La programación funcional aporta medios de computación así como funciones matemáticas, lo que genera resultados independientemente del estado del programa. Esto posibilita la predicción del comportamiento del programa.
+
+La programación funcional usa los siguientes conceptos:
+
+Funciones de primera clase y de orden superior - Estas funciones tienen la capacidad de aceptar otra función como argumento o de devolver otras funciones como resultado.
+
+Funciones puras - Estas funciones no incluyen actualizaciones destructivas, es decir, no afectan a ningún Periférico de Entrada/Salida o a la memoria, y si no se usan pueden ser facilmente eliminadas sin dificultar al resto del programa.
+
+Recursión - La recursión es una técnica en que la función se llama a sí misma y repite el código del programa en ésta, a menos que alguna condición definida previamente se corresponda con la misma. La recursión es el camino para crear estructuras de sistema en programación funcional.
+
+Evaluación estricta - Es un método para evaluar la expresión que se ha pasado a una función como argumento. La programación funcional tiene dos tipos de métodos de evaluación, el estricto (entusiasta) y el no estricto (vago). La evaluación estricta siempre evalua la expresión antes de aplicar la función. La evaluación no estricta no evalua la expresión a menos que sea necesario.
+
+Cálculo lambda (λ-calculus) - La mayor parte de lenguajes de programación usan cálculo lambda como su sistema de tipos. Las expresiones 'λ' se ejecutan evaluándolas tal y como ocurren.
+
+Common Lisp, Scala, Haskell, Erlang y F# son algunos ejemplos de lenguajes de programación funcional.
+
+Estilo de programación
+El estilo de programación se configura con reglas de codificación seguidas por todos los programadores para escribir el código. Cuando más de un programador trabaja en el mismo proyecto de software, necesitan frecuentemente trabajar con el código del programa que ha escrito otro desarrollador. Esto se vuelve tedioso o a veces imposible, si todos los desarrolladores no siguen un estilo de programación estándar para codificar el programa.
+
+Un estilo de programación apropiado incluye el uso de funciones y nombres variables y relevantes para la tarea que se va a llevar a cabo, usando una sangría bien ubicada, comentando el código para la conveniencia del lector y para la presentación general del código. Esto facilita la inteligibilidad del código, lo que facilita que uno por uno se eliminen y solucionen los errores. Además, un estilo de codificación adecuado ayuda a facilitar el proceso de actualización y de documentación.
+
+Directrices de codificación
+Las distintas prácticas de estilo de codificación varían en cada organización, sistema operativo, y en el mismo lenguaje de codificación.
+
+Los siguientes elementos de codificación se pueden definir bajo las directrices de una organización:
+
+Convención de nomenclatura - Esta sección define cómo nombrar funciones, variables, constantes, y variables globales.
+
+Sangría - Este es el espacio que se encuentra al principio de cada línea, normalmente incluye de 2 a 8 espacios en blanco o un solo tabulador (véase tecla 'tab').
+
+Espacio en blanco - Generalmente se omite al final de cada línea.
+
+Operadores - Define las reglas para escribir operadores lógicos y tareas matemáticas. Por ejemplo, operador de tarea ‘=’ debe tener un espacio antes y después de éste, como en “x = 2”.
+
+Estructuras de Control - Son las reglas para escribir 'SI..ENTONCES..SI NO'(if..then..else), el SEGÚN (case o switch), declaraciones 'while-until' para afirmaciones de flujo de control únicamente, y en lenguaje ensamblador de moda.
+
+Longitud de línea y envoltorio - Define el número de caracteres que debe haber en una línea, mayormente una línea tiene 80 caracteres de longitud. Envolver define cómo se envolverá la línea, si es demasiado larga.
+
+Funciones - Esto define cómo se deben aplicar y manifestar las funciones, con y sin parámetros.
+
+Variables - Esto menciona cómo se deben manifestar y definir las variables de diferentes tipos de datos.
+
+Comentarios - Este es uno de los componentes más importantes de la codificación, ya que los comentarios que se incluyen en el código describen describe lo que realmente hace el código y todas las otras descripciones asociadas. Esta sección también ayuda a crear documentación de ayuda para otros desarrolladores.
+
+Documentación de Software
+La documentación de Software es una parte importante del proceso de software. Un documento bien escrito es una gran herramienta y es un medio repositorio de información necesario para conocer el proceso de software. La documentación de Software también aporta información sobre cómo se debe usar el producto.
+
+Una documentación mantenida correctamente debe incluir los documentos que se citan a continuación:
+
+Documentación de requisitos - Esta documentación funciona como herramienta clave para diseñadores de software, desarroladores, y el equipo de evaluadores, para llevar a cabo sus respectivas tareas. Este documento contiene la descripción funcional, no funcional, y conductual del software que se intenta lograr.
+
+El origen de este documento pueden ser datos almacenados previamente, software que ya está funcionando con el consumidor final, entrevistas con clientes, cuestionarios e investigaciones. Generalmente se almacena en forma de hoja de cálculo o de documento realizados con procesadores de texto, con el equipo de gestión de software de mayor calidad.
+
+Esta documentación funciona como base para desarrollar el software y se usa mayormente en las fases de verificación y de validación. La mayor pare de casos de prueba se construyen partiendo de la documentación de requisitos.
+
+Documentación de diseño de Software - Esta documentación contiene toda la información necesaria, que se requiere para construir el software. Incluye: (a) arquitectura de software de alto nivel, (b) Detalls de diseño Software, (c) Diagramas de flujo de datos, (d) Diseño de bases de datos
+
+Estos documents funcionan como repositorio para que los desarrolladores implementen el software. A pesar de que estos documentos no den nigún detalle de cómo codificar el programa, dan la información necesaria que se requiere para las fases de codificación e implementación.
+
+Documentación técnica - Esta documentación la mantienen desarrolladores y programadores. Estos documentos, en su conjunto, representan información sobre el código. Mientras escriben el código, los programadores también suelen mencionar objetivos del código, quién lo escribió, dónde se requerirá, qué hace y no hace, qué otros recursos usa el código, etc.
+
+La documentación técnica incrementa el entendimiento entre varios programadores que trabajan en el mismo código. Incentiva la capacidad de reutilización del código. Facilita el proceso de eliminación y localización de errores.
+
+Hay varias herramientas automatizadas disponibes y algunas ya vienen con su propio lenguaje de programación. Por ejemplo java viene con la herramienta JavaDoc tool para generar documentación técnica del código.
+
+Documentación del usuario - Esta documentación es diferente en comparación con las mencionadas con anterioridad. Las que ya se han expuesto se mantienen para la aportación de información sobre el software y su proceso de desarrollo. Por el contrario, la documentación de usuario explica cómo se debe usar y cómo debe funcionar el producto software, con tal de lograr los resultados que se esperan.
+
+Esta documentación puede incluir, procedimientos de instalación del software, guías de instrucciones, guías para el usuario, método de desinstalación y referencias especiales para obtener más información como actualización de licencias, etc.
+
+Retos de la implementación de Software
+Hay algunos retos que el equipo de desarrollo debe afrontar mientras se implementa el software. Algunos de ellos se explicitan a continuación:
+
+Reutilización del código - La interfaces de programación de los lenguajes actuales son muy sofisticadas y están equipadas con grandes funciones de librería. Aún así, y a fin de disminuir el coste del producto final, la gestión organizacional prefiere reutiizar el código, el cual se creó con anterioridad para algún otro software. Hay asuntos de gran magnitud que deben ser confrontados por los programadores para tests de compatibilidad y decidiendo la cantidad de código se reutilizará.
+
+Gestión de versiones - Cada vez que un nuevo software se entrega al consumidor, los desarrolladores deben mantener la documentación asociada a su configuración y a su versión. Esta documentación debe ser muy acurada y disponible a tiempo.
+
+'Target-Host'(target de receptores) - El programa software que se está desarrollando en la organización, necesita ser diseñado para máquinas receptoras para el consumidor final. Pero a veces, es imposible diseñar un software que funciones en máquinas receptoras.

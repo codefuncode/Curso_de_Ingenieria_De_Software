@@ -1,5 +1,10 @@
+https://www.tutorialspoint.com/sp/software_engineering/index.htm
+
+
+
 https://www.tutorialspoint.com/sp/software_engineering/software_implementation.htm
 https://phptherightway.com/pages/Functional-Programming.html
+
 
 Ingeniería de Software de Inicio
 Resumen de Ingeniería de Software

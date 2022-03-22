@@ -1,0 +1,19 @@
+Tutorial sobre Ingeniería de Software
+
+La Ingeniería de Software es una rama de la Ingeniería asociada al desarrollo de productos de Software usando principios, métodos y procedimientos científicos bien definidos. La finalidad de la Ingeniería de Software es obtener un producto de Software eficiente y fiable.
+
+La gestión de Proyectos de Software tiene muchas más posibilidades que el proceso de Ingeniería de Software, ya que implica comunicación, soporte previo y posterior de entrega, etc.
+
+Este tuturial le aportará un entendimiento básico sobre el producto software, su diseño y proceso de desarrollo, la gestión de un producto software, el diseño de sus complejidades,etc. Al final del tutorial Usted estará totalmente equipado con un amplio conocimiento de los conceptos de la Ingeniería de Software.
+
+Público
+Este tutorial está diseñado para lectores interesados en aprender a dominar y desarrollar Software, futuros profesionales para Pruebas de programas y por supuesto para todos los lectores entusiastas.
+
+Requisitos previos
+Este tutorial está diseñado y desarrollado para principiantes. No obstante, un conocimiento previo sobre sistemas de software y su proceso de desarrollo, así como algunas nociones informáticas básicas sería beneficioso.
+
+
+Referencias
+
+https://es.wikipedia.org/wiki/Ingeniería_de_software
+https://www.tutorialspoint.com/sp/software_engineering/index.htm
