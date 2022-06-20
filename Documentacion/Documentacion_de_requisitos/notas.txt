@@ -1,0 +1,39 @@
+Requisitos Los documentos se utilizan para transmitir de forma precisa y sin ambigüedades las necesidades de una empresa. Un documento de requisitos comerciales es un documento de “requisitos” bien conocido; sin embargo, existen otros tipos de documentos de requisitos que también son importantes para que un proyecto avance hasta su finalización. La plantilla de un documento de requisitos que se utilizará depende del tipo de requisitos que se pretende capturar. Las organizaciones desarrollan y adaptan sus propias plantillas para satisfacer sus necesidades.
+
+Documento de requisitos comerciales (BRD)
+
+Define los objetivos comerciales de alto nivel y las funciones básicas de un producto. Lo prepara un analista de negocios o un gerente de proyecto. Contiene secciones para describir el alcance del proyecto, los requisitos funcionales, no funcionales, de datos e interfaz. Proporciona una buena comprensión de los tipos de usuarios y sus expectativas. Presenta una idea del sistema propuesto desde el punto de vista de la organización empresarial que encarga el sistema.
+
+Documento de requisitos funcionales
+
+Describe en detalle los servicios prestados por el sistema. Especifica la secuencia de eventos, entradas, salidas, datos almacenados y procesos computacionales para cada función. Captura el comportamiento del sistema para cada evento y acción del usuario. Las descripciones de texto están respaldadas por diagramas de cableado para una mejor comprensión.
+Lee mas  Sepa qué es la redacción de comunicados de prensa y las pautas de envío para obtener una clasificación alta en las SERP
+
+Documento de requisitos de calidad
+
+Este documento describe los criterios de aceptación del producto final. Establece lo que los usuarios finales esperan del sistema en términos de rendimiento, tiempo de respuesta, confiabilidad, recuperación ante desastres, mecanismos a prueba de fallas, mantenibilidad, accesibilidad, capacidad de manejo de carga, portabilidad y robustez. Estos también se denominan requisitos no funcionales.
+
+Documento de requisitos técnicos
+
+Los requisitos de software, hardware y plataforma del producto final se describen en este documento. Los requisitos de software establecen en qué lenguaje de programación se debe desarrollar el sistema, qué software se utilizará para acceder al sistema y el tipo de base de datos. Los requisitos de hardware establecen la velocidad del procesador, el tamaño de la memoria, el espacio en disco, la configuración de la red y la capacidad de los servidores de aplicaciones y bases de datos que se implementarán cuando el sistema entre en funcionamiento (entorno de producción). Los requisitos de la plataforma establecen las limitaciones del entorno del sistema y las limitaciones de la tecnología que se empleará durante la construcción del sistema. Si el sistema se va a implementar en varias ubicaciones, se describe el entorno de hardware y software de cada ubicación. El documento enumera las limitaciones que deben tenerse en cuenta al diseñar la arquitectura del sistema.
+Lee mas  Mentalidad empresarial frente a mentalidad técnica
+
+Documento de requisitos de interfaz de usuario
+
+Describe la apariencia de la interfaz gráfica de usuario (GUI) del sistema. Define el posicionamiento de los campos de entrada del usuario, mensajes, menús, encabezado y pie de página en la pantalla de la aplicación. Explica cómo accederá el usuario a las pantallas y la secuencia de acciones del usuario para cada proceso. Contiene capturas de pantalla de maquetas para darle al equipo del proyecto una idea de cómo se verá el producto final. Muestra:
+
+• Cómo se presenta el contenido al usuario
+
+• Códigos de colores que se utilizarán
+
+• Navegación de usuario
+
+• Sugerencias / consejos / sugerencias que se mostrarán al usuario en la pantalla
+
+• Opciones de “Guardar datos y continuar la operación más tarde” cuando el usuario tiene que ingresar una gran cantidad de datos en el sistema
+
+Teclas de acceso directo para funciones de uso frecuente
+
+Documento de requisitos de mercado (MRD)
+
+Define las necesidades del usuario final del sistema (es decir, los clientes de la empresa para la que se va a implementar el sistema). Este documento ha sido elaborado por directores de marketing, directores de producto o analistas comerciales. Define las funciones del sistema de acuerdo con la tendencia actual del mercado y las expectativas de la base de clientes objetivo. Enumera las características que le dan a la empresa una ventaja competitiva en el mercado.

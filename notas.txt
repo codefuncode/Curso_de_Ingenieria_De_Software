@@ -5,7 +5,6 @@ https://www.tutorialspoint.com/sp/software_engineering/index.htm
 https://www.tutorialspoint.com/sp/software_engineering/software_implementation.htm
 https://phptherightway.com/pages/Functional-Programming.html
 
-
 Ingeniería de Software de Inicio
 Resumen de Ingeniería de Software
 Ciclo de vida del desarrollo Software
@@ -20,3 +19,11 @@ Implementación del Software
 Sumario sobre Pruebas de Software
 Sumario sobre el mantenimiento del Software
 Sumario sobre Software para Herramienta CASE
+
+
+
+
+====================================================================================
+Modulo 4 traduccion 
+https://www.tutorialspoint.com/software_engineering/software_project_management.htm
+====================================================================================

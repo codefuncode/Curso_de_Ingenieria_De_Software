@@ -14,6 +14,5 @@ Este tutorial está diseñado y desarrollado para principiantes. No obstante, un
 
 
 Referencias
-
+https://www.tutorialspoint.com/software_engineering/index.htm
 https://es.wikipedia.org/wiki/Ingeniería_de_software
-https://www.tutorialspoint.com/sp/software_engineering/index.htm
